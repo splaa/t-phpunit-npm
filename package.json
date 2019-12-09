@@ -1,0 +1,27 @@
+{
+  "name": "phpunit",
+  "version": "1.0.0",
+  "description": "t-phpunit description",
+  "main": "public/index.js",
+  "directories": {
+    "doc": "doc",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/splaa/t-phpunit-npm.git"
+  },
+  "keywords": [
+    "phpunit",
+    "test"
+  ],
+  "author": "Andrii Lav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/splaa/t-phpunit-npm/issues"
+  },
+  "homepage": "https://github.com/splaa/t-phpunit-npm#readme"
+}
